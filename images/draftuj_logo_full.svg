@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="30px" viewBox="0 0 119 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>draftuj_logo_full@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-21.000000, -15.000000)">
+            <g id="draftuj_logo_full" transform="translate(21.000000, 15.000000)">
+                <g id="draftuj_logo">
+                    <polygon id="Rectangle-44" fill="#44A4FF" points="7.5 0 22.5 0 15 15 0 15"></polygon>
+                    <path d="M22.5,22.5 L22.5,7.5 L15,7.5 L15,15 C19.1421356,15 22.5,18.3578644 22.5,22.5 Z" id="Combined-Shape" fill="#44A4FF"></path>
+                    <path d="M21.7671433,25.7375668 L28.9943962,11.2494049 L23.1400508,3.98983932 L20.5574729,10.9199118 L21.1413825,18.1938461 C21.997459,19.412519 22.5,20.8975721 22.5,22.5 C22.5,23.6594545 22.2368993,24.7574586 21.7671433,25.7375668 Z" id="Combined-Shape" fill="#44A4FF"></path>
+                    <circle id="Oval-6" fill="#44A4FF" cx="22.5" cy="7.5" r="7.5"></circle>
+                    <path d="M15,15 L7.5,15 L0,30 L15,30 C19.1421356,30 22.5,26.6421356 22.5,22.5 C22.5,18.3578644 19.1421356,15 15,15 Z" id="Combined-Shape" fill="#2E6EA9"></path>
+                    <path d="M22.5,22.5 C22.5,18.3578644 19.1421356,15 15,15 L7.5,15 L6,18 L17.25,18 C19.8948539,18 22.0829111,19.9557794 22.4468334,22.5 L22.5,22.5 Z" id="Combined-Shape" fill="#000000" opacity="0.300000012"></path>
+                </g>
+                <text id="Draftuj" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold" line-spacing="22" fill="#495157">
+                    <tspan x="41" y="27">Draftuj</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

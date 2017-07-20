@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="722px" height="514px" viewBox="0 0 722 514" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="720" height="512" rx="6"></rect>
+        <rect id="path-3" x="141" y="20" width="580" height="30"></rect>
+        <filter x="-0.1%" y="-1.7%" width="100.2%" height="106.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.847058824   0 0 0 0 0.847058824   0 0 0 0 0.847058824  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="20" width="140" height="512"></rect>
+        <filter x="-0.4%" y="-0.1%" width="101.4%" height="100.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.847058824   0 0 0 0 0.847058824   0 0 0 0 0.847058824  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="141" y="51" width="579" height="30"></rect>
+        <filter x="-0.1%" y="-1.7%" width="100.2%" height="106.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.847058824   0 0 0 0 0.847058824   0 0 0 0 0.847058824  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard">
+            <g id="header-+-line_3-+-left_panel-+-header-copy-+-Rectangle-2-+-line_3-+-line_3-copy-+-line_3-copy-5-+-line_3-copy-3-+-line_3-copy-6-+-line_3-copy-2-+-line_3-copy-7-+-line_3-copy-4-+-line_3-copy-8-+-Combined-Shape-+-26-Marca-2017,-9:14-+-26-Marca-2017,-9:14-Copy-4-+-26-Marca-2017,-9:14-Copy-2-+-26-Marca-2017,-9:14-Copy-5-+-26-Marca-2017,-9:14-Copy-+-26-Marca-2017,-9:14-Copy-6-+-26-Marca-2017,-9:14-Copy-3-+-26-Marca-2017,-9:14-Copy-7-+-Pozew-o-rozwód-+-Wniosek-o-paszport-+-Rezygnacja-z-usług-U-+-Odstąpienie-od-umowy-+-Rezygnacja-z-Neostra-+-Wniosek-o-przydział-+-Aneks-do-umowy-najmu-+-KRS-Z12-+-logo-+-Odstąpienie-od-umowy-+-Lorem-ipsum-dolor-si-+-Body-+-Zapisany-4/05/2017-o-+-B-+-I-+-U-+-S-+-Lorem-ipsum-dolor-si-+-Lorem-ipsum-dolor-si-Copy-+-Rectangle-1458-+-Rectangle-1458-Copy-+-Rectangle-1458-Copy-2-+-Rectangle-1992-Copy-+-Nowy-dokument-+-Bartek-Nowojski-+-Rectangle-+-Rectangle-Copy-3-+-Oval-Copy-+-Moje-dokumenty-+-Eksportuj-do-PDF-+-more-+-more-copy-4-+-more-copy-+-more-copy-5-+-more-copy-2-+-more-copy-6-+-more-copy-3-+-more-copy-7-+-Szukaj-+-Combined-Shape-+-BN-+-Rectangle-19-+-Rectangle-19-Copy-+-Rectangle-19-Copy-2-+-Rectangle-19-Copy-3-+-Rectangle-19-Mask" transform="translate(1.000000, 1.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#D8D8D8" stroke-width="1" x="-0.5" y="-0.5" width="721" height="513" rx="6"></rect>
+                </g>
+                <g id="header" mask="url(#mask-2)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <rect id="line_3" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="50" width="140" height="1"></rect>
+                <g id="left_panel" mask="url(#mask-2)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#E8EDEA" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <g id="header-copy" mask="url(#mask-2)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#D5DFD9" mask="url(#mask-2)" x="0" y="234" width="140" height="30"></rect>
+                <rect id="line_3" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="50" width="140" height="1"></rect>
+                <rect id="line_3" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="20" width="720" height="1"></rect>
+                <rect id="line_3-copy" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="81" width="140" height="1"></rect>
+                <rect id="line_3-copy-5" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="203" width="140" height="1"></rect>
+                <rect id="line_3-copy-3" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="142" width="140" height="1"></rect>
+                <rect id="line_3-copy-6" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="264" width="140" height="1"></rect>
+                <rect id="line_3-copy-2" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="111" width="140" height="1"></rect>
+                <rect id="line_3-copy-7" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="233" width="140" height="1"></rect>
+                <rect id="line_3-copy-4" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="172" width="140" height="1"></rect>
+                <rect id="line_3-copy-8" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="294" width="140" height="1"></rect>
+                <path d="M241,35 L238,35 L238,36 L241,36 L241,39 L242,39 L242,36 L245,36 L245,35 L242,35 L242,32 L241,32 L241,35 Z" id="Combined-Shape" fill="#BDC0BE" mask="url(#mask-2)"></path>
+                <text id="26-Marca-2017,-9:14" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="8.5" fill="#848484">
+                    <tspan x="10" y="72">26 Marca 2017, 9:14</tspan>
+                </text>
+                <text id="26-Marca-2017,-9:14-Copy-4" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="8.5" fill="#848484">
+                    <tspan x="10" y="194">26 Marca 2017, 9:14</tspan>
+                </text>
+                <text id="26-Marca-2017,-9:14-Copy-2" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="8.5" fill="#848484">
+                    <tspan x="10" y="133">26 Marca 2017, 9:14</tspan>
+                </text>
+                <text id="26-Marca-2017,-9:14-Copy-5" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="8.5" fill="#848484">
+                    <tspan x="10" y="255">26 Marca 2017, 9:14</tspan>
+                </text>
+                <text id="26-Marca-2017,-9:14-Copy" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="8.5" fill="#848484">
+                    <tspan x="10" y="103">26 Marca 2017, 9:14</tspan>
+                </text>
+                <text id="26-Marca-2017,-9:14-Copy-6" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="8.5" fill="#848484">
+                    <tspan x="10" y="225">26 Marca 2017, 9:14</tspan>
+                </text>
+                <text id="26-Marca-2017,-9:14-Copy-3" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="8.5" fill="#848484">
+                    <tspan x="10" y="164">26 Marca 2017, 9:14</tspan>
+                </text>
+                <text id="26-Marca-2017,-9:14-Copy-7" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="8.5" fill="#848484">
+                    <tspan x="10" y="286">26 Marca 2017, 9:14</tspan>
+                </text>
+                <text id="Pozew-o-rozwód" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#3B3B3B">
+                    <tspan x="10" y="64">Pozew o rozwód</tspan>
+                </text>
+                <text id="Wniosek-o-paszport" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#3B3B3B">
+                    <tspan x="10" y="186">Wniosek o paszport</tspan>
+                </text>
+                <text id="Rezygnacja-z-usług-U" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#3B3B3B">
+                    <tspan x="10" y="125">Rezygnacja z usług UPC</tspan>
+                </text>
+                <text id="Odstąpienie-od-umowy" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#3B3B3B">
+                    <tspan x="10" y="247">Odstąpienie od umowy</tspan>
+                </text>
+                <text id="Rezygnacja-z-Neostra" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#3B3B3B">
+                    <tspan x="10" y="94">Rezygnacja z Neostrady</tspan>
+                </text>
+                <text id="Wniosek-o-przydział" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#3B3B3B">
+                    <tspan x="10" y="216">Wniosek o przydział mieszkania</tspan>
+                </text>
+                <text id="Aneks-do-umowy-najmu" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#3B3B3B">
+                    <tspan x="10" y="155">Aneks do umowy najmu</tspan>
+                </text>
+                <text id="KRS-Z12" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#3B3B3B">
+                    <tspan x="10" y="277">KRS-Z12</tspan>
+                </text>
+                <g id="logo" mask="url(#mask-2)">
+                    <g transform="translate(395.000000, 26.000000)">
+                        <text id="draftuj" fill="none" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold">
+                            <tspan x="26" y="13" fill="#2C3E34">draftuj</tspan>
+                        </text>
+                        <path d="M8,16 L18,16 L18,2 L8,2 L8,0 L20,0 L20,1 L20,18 L19,18 L7,18 L6,18 L6,12 L8,12 L8,16 Z M10,12 L16,12 L16,14 L10,14 L10,12 Z M10,8 L16,8 L16,10 L10,10 L10,8 Z M2,8 L8,8 L8,10 L2,10 L2,8 Z M0,0 L6,0 L6,2 L0,2 L0,0 Z M4,4 L8,4 L8,6 L4,6 L4,4 Z M10,4 L16,4 L16,6 L10,6 L10,4 Z" id="Combined-Shape" fill="#00DD61" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+                <text id="Odstąpienie-od-umowy" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="16" font-weight="500" fill="#3B3B3B">
+                    <tspan x="271" y="130">Odstąpienie od umowy</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" line-spacing="13" fill="#3B3B3B">
+                    <tspan x="271" y="154">Lorem ipsum dolor sit amet, mea idque postea doctus ea, error option volutpat vix at. </tspan>
+                    <tspan x="271" y="167">Te sed luptatum salutatus, sed in nibh quidam vituperata. Eros efficiendi nec no, suas </tspan>
+                    <tspan x="271" y="180">consectetuer ea vix, an deleniti honestatis mea. His te brute mazim. Eius nostrum vel </tspan>
+                    <tspan x="271" y="193">ex.</tspan>
+                    <tspan x="271" y="206"></tspan>
+                    <tspan x="271" y="219">Eius etiam indoctum has ei, usu amet possit ei. Nostrud quaeque pri no. Mea virtute </tspan>
+                    <tspan x="271" y="232">indoctum at, ad sint essent oporteat vel. Vocibus omittantur qui at. Tota brute utinam </tspan>
+                    <tspan x="271" y="245">has et.</tspan>
+                    <tspan x="271" y="258"></tspan>
+                    <tspan x="271" y="271">Vix an deserunt prodesset omittantur, vis at solet putant, odio tation referrentur quo </tspan>
+                    <tspan x="271" y="284">ne. Cu dicam voluptatibus qui. Unum prima conclusionemque est at, duo populo </tspan>
+                    <tspan x="271" y="297">alienum praesent an. Veri iisque delicatissimi no vel, eam postea eirmod posidonium </tspan>
+                    <tspan x="271" y="310">ad.</tspan>
+                    <tspan x="271" y="323"></tspan>
+                    <tspan x="271" y="336">His ex nibh tation neglegentur, an usu persius facilisi sapientem, ad pro tation </tspan>
+                    <tspan x="271" y="349">dolorem. Sea erant oblique iudicabit ei, cu sed tacimates lobortis laboramus, et usu </tspan>
+                    <tspan x="271" y="362">prima ullum. Mel no accusamus efficiantur, cum audiam regione lucilius at, sed te </tspan>
+                    <tspan x="271" y="375">harum postulant. Sit at vidit saepe discere. Contentiones conclusionemque te eam, eu </tspan>
+                    <tspan x="271" y="388">mel equidem fabulas honestatis, an aeque voluptua definitionem vel. Ea oratio legere </tspan>
+                    <tspan x="271" y="401">aliquip pro. Eu vix errem postea, wisi feugait ea eam.</tspan>
+                    <tspan x="271" y="414"></tspan>
+                    <tspan x="271" y="427">Pri paulo torquatos inciderint cu. Vis in habeo errem evertitur, errem bonorum </tspan>
+                    <tspan x="271" y="440">urbanitas te nec. Ad his praesent facilisis. Magna euripidis ne eos, affert graece </tspan>
+                    <tspan x="271" y="453">expetenda cum ad. Ei putent partiendo vis, eros noster quodsi et mei.</tspan>
+                    <tspan x="271" y="466"></tspan>
+                    <tspan x="271" y="479">Ne sea argumentum eloquentiam. Te nec graece possit, an tota omittam scripserit </tspan>
+                    <tspan x="271" y="492">cum. An alia consetetur eum, qui duis dicant no, est et equidem necessitatibus. </tspan>
+                    <tspan x="271" y="505">Legendos sensibus at eum, est eirmod laoreet intellegam id.</tspan>
+                    <tspan x="271" y="518"></tspan>
+                    <tspan x="271" y="531">Tempor viderer fuisset eam ex. Te mazim dignissim vel. Singulis adipiscing no mel. </tspan>
+                    <tspan x="271" y="544">Eos sint errem eligendi ex, sea ex diam volumus. Pro ne veniam labores forensibus, </tspan>
+                    <tspan x="271" y="557">eruditi definiebas disputando cum cu. No ullum minimum per, vel eu aperiri </tspan>
+                    <tspan x="271" y="570">percipitur, his eu oportere percipitur. Qui ex tollit definiebas inciderint, esse </tspan>
+                    <tspan x="271" y="583">intellegebat eu mea, oporteat iracundia id cum.</tspan>
+                    <tspan x="271" y="596"></tspan>
+                    <tspan x="271" y="609">Id soluta salutatus consequat mei. Ad nam habeo habemus, ei vel summo nostro </tspan>
+                    <tspan x="271" y="622">patrioque. Eu vis salutatus instructior. Laoreet mandamus mnesarchum mel ut, </tspan>
+                    <tspan x="271" y="635">pericula sapientem maiestatis an vel. Eam ut tota consequuntur, solum urbanitas </tspan>
+                    <tspan x="271" y="648">consequuntur et nam, no equidem imperdiet qui.</tspan>
+                    <tspan x="271" y="661"></tspan>
+                    <tspan x="271" y="674">Vel stet reformidans ei, brute nihil at sea. An vix zril quidam facilis, at vis suas </tspan>
+                    <tspan x="271" y="687">bonorum. Cum dictas </tspan>
+                </text>
+                <text id="Body" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" line-spacing="13" fill="#3B3B3B">
+                    <tspan x="378.050781" y="68">Body</tspan>
+                </text>
+                <text id="Zapisany-4/05/2017-o" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="13" fill="#858585">
+                    <tspan x="151" y="65">Zapisany 4/05/2017 o godz. 12:33 </tspan>
+                </text>
+                <text id="B" mask="url(#mask-2)" font-family="OpenSans-Bold, Open Sans" font-size="8" font-weight="bold" line-spacing="13" fill="#3B3B3B">
+                    <tspan x="421" y="68">B</tspan>
+                </text>
+                <text id="I" mask="url(#mask-2)" font-family="OpenSans-SemiboldItalic, Open Sans" font-size="8" font-style="italic" font-weight="500" line-spacing="13" fill="#3B3B3B">
+                    <tspan x="438" y="68">I</tspan>
+                </text>
+                <text id="U" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7.5" font-weight="500" line-spacing="13" fill="#3B3B3B">
+                    <tspan x="453" y="67">U</tspan>
+                </text>
+                <text id="S" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="8" font-weight="500" line-spacing="13" fill="#3B3B3B">
+                    <tspan x="470" y="68">S </tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="9" fill="#858585">
+                    <tspan x="616" y="154">Lorem ipsum dolor sit amet, </tspan>
+                    <tspan x="616" y="163">mea idque postea doctus ea, </tspan>
+                    <tspan x="616" y="172">error option volutpat vix at. Te </tspan>
+                    <tspan x="616" y="181">sed luptatum salutatus, sed in </tspan>
+                    <tspan x="616" y="190">nibh quidam vituperata. Eros </tspan>
+                    <tspan x="616" y="199">efficiendi nec no, suas </tspan>
+                    <tspan x="616" y="208">consectetuer ea vix, an </tspan>
+                    <tspan x="616" y="217">deleniti honestatis mea. His te </tspan>
+                    <tspan x="616" y="226">brute mazim. Eius nostrum </tspan>
+                    <tspan x="616" y="235">vel ex.</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si-Copy" mask="url(#mask-2)" font-family="OpenSans, Open Sans" font-size="6" font-weight="normal" line-spacing="9" fill="#858585">
+                    <tspan x="616" y="335">Lorem ipsum dolor sit amet, </tspan>
+                    <tspan x="616" y="344">mea idque postea doctus ea, </tspan>
+                    <tspan x="616" y="353">error option volutpat vix at. Te </tspan>
+                    <tspan x="616" y="362">sed luptatum salutatus, sed in </tspan>
+                    <tspan x="616" y="371">nibh quidam vituperata. Eros </tspan>
+                    <tspan x="616" y="380">efficiendi nec no, suas </tspan>
+                    <tspan x="616" y="389">consectetuer ea vix, an </tspan>
+                    <tspan x="616" y="398">deleniti honestatis mea. His te </tspan>
+                    <tspan x="616" y="407">brute mazim. Eius nostrum </tspan>
+                    <tspan x="616" y="416">vel ex.</tspan>
+                </text>
+                <rect id="Rectangle-1458" fill="#BDC0BE" mask="url(#mask-2)" x="151" y="33" width="8" height="1"></rect>
+                <rect id="Rectangle-1458-Copy" fill="#BDC0BE" mask="url(#mask-2)" x="151" y="35" width="8" height="1"></rect>
+                <rect id="Rectangle-1458-Copy-2" fill="#BDC0BE" mask="url(#mask-2)" x="151" y="37" width="8" height="1"></rect>
+                <rect id="Rectangle-1992-Copy" fill="#00DD61" mask="url(#mask-2)" x="628" y="57" width="82" height="17" rx="2"></rect>
+                <text id="Nowy-dokument" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="8.5" fill="#858585">
+                    <tspan x="250" y="38">Nowy dokument</tspan>
+                </text>
+                <text id="Bartek-Nowojski" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="8.5" fill="#858585">
+                    <tspan x="624" y="38">Bartek Nowojski</tspan>
+                </text>
+                <polygon id="Rectangle" fill="#858585" mask="url(#mask-2)" points="685 34 688 34 686.5 36"></polygon>
+                <polygon id="Rectangle-Copy-3" fill="#3B3B3B" mask="url(#mask-2)" points="399 65 402 65 400.5 67"></polygon>
+                <circle id="Oval-Copy" fill="#D8D8D8" mask="url(#mask-2)" cx="701.5" cy="35.5" r="8.5"></circle>
+                <text id="Moje-dokumenty" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="8.5" fill="#858585">
+                    <tspan x="165" y="38">Moje dokumenty</tspan>
+                </text>
+                <text id="Eksportuj-do-PDF" mask="url(#mask-2)" font-family="OpenSans-Bold, Open Sans" font-size="7" font-weight="bold" line-spacing="8.5" fill="#FFFFFF">
+                    <tspan x="635.0271" y="67.0180664">Eksportuj do PDF</tspan>
+                </text>
+                <g id="more" mask="url(#mask-2)" fill="#C9C9C9">
+                    <g transform="translate(122.000000, 156.000000)">
+                        <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy" cx="4" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy-2" cx="7" cy="1" r="1"></circle>
+                    </g>
+                </g>
+                <g id="more-copy-4" mask="url(#mask-2)" fill="#C9C9C9">
+                    <g transform="translate(122.000000, 278.000000)">
+                        <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy" cx="4" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy-2" cx="7" cy="1" r="1"></circle>
+                    </g>
+                </g>
+                <g id="more-copy" mask="url(#mask-2)" fill="#C9C9C9">
+                    <g transform="translate(122.000000, 126.000000)">
+                        <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy" cx="4" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy-2" cx="7" cy="1" r="1"></circle>
+                    </g>
+                </g>
+                <g id="more-copy-5" mask="url(#mask-2)" fill="#A0A0A0">
+                    <g transform="translate(122.000000, 248.000000)">
+                        <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy" cx="4" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy-2" cx="7" cy="1" r="1"></circle>
+                    </g>
+                </g>
+                <g id="more-copy-2" mask="url(#mask-2)" fill="#C9C9C9">
+                    <g transform="translate(122.000000, 95.000000)">
+                        <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy" cx="4" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy-2" cx="7" cy="1" r="1"></circle>
+                    </g>
+                </g>
+                <g id="more-copy-6" mask="url(#mask-2)" fill="#C9C9C9">
+                    <g transform="translate(122.000000, 217.000000)">
+                        <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy" cx="4" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy-2" cx="7" cy="1" r="1"></circle>
+                    </g>
+                </g>
+                <g id="more-copy-3" mask="url(#mask-2)" fill="#C9C9C9">
+                    <g transform="translate(122.000000, 65.000000)">
+                        <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy" cx="4" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy-2" cx="7" cy="1" r="1"></circle>
+                    </g>
+                </g>
+                <g id="more-copy-7" mask="url(#mask-2)" fill="#C9C9C9">
+                    <g transform="translate(122.000000, 187.000000)">
+                        <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy" cx="4" cy="1" r="1"></circle>
+                        <circle id="Oval-3-Copy-2" cx="7" cy="1" r="1"></circle>
+                    </g>
+                </g>
+                <text id="Szukaj" mask="url(#mask-2)" font-family="OpenSans-Semibold, Open Sans" font-size="7" font-weight="500" line-spacing="9" fill="#848484">
+                    <tspan x="23" y="38">Szukaj</tspan>
+                </text>
+                <path d="M16.3031923,36.5960855 L17.9142136,38.2071068 L17.2071068,38.9142136 L15.5960855,37.3031923 C15.0117953,37.7407982 14.2861676,38 13.5,38 C11.5670034,38 10,36.4329966 10,34.5 C10,32.5670034 11.5670034,31 13.5,31 C15.4329966,31 17,32.5670034 17,34.5 C17,35.2861676 16.7407982,36.0117953 16.3031923,36.5960855 Z M13.5,37 C14.8807119,37 16,35.8807119 16,34.5 C16,33.1192881 14.8807119,32 13.5,32 C12.1192881,32 11,33.1192881 11,34.5 C11,35.8807119 12.1192881,37 13.5,37 Z" id="Combined-Shape" fill="#BDC0BE" mask="url(#mask-2)"></path>
+                <text id="BN" mask="url(#mask-2)" font-family="OpenSans-Bold, Open Sans" font-size="7" font-weight="bold" line-spacing="8.5" fill="#FFFFFF">
+                    <tspan x="693" y="38">BN</tspan>
+                </text>
+                <rect id="Rectangle-19" fill="#3B3B3B" mask="url(#mask-2)" x="470" y="66" width="6" height="1"></rect>
+                <rect id="Rectangle-19-Copy" fill="#3B3B3B" mask="url(#mask-2)" x="453" y="69" width="5" height="1"></rect>
+                <rect id="Rectangle-19-Copy-2" fill="#3B3B3B" mask="url(#mask-2)" x="438" y="63" width="3" height="1"></rect>
+                <rect id="Rectangle-19-Copy-3" fill="#3B3B3B" mask="url(#mask-2)" x="437" y="68" width="3" height="1"></rect>
+                <rect id="Rectangle-19" fill="#FFFFFF" mask="url(#mask-2)" x="470" y="66" width="6" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
