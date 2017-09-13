@@ -5,20 +5,21 @@
     <title>Draftuj.pl - Tworzenie umów jeszcze nigdy nie było tak proste</title>
     <link rel="stylesheet" type="text/css" href="styles.css" media="screen">
     <link rel="icon" type="image/png" href="fav.png">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="manifest" href="./manifest.json">
+    <meta name="viewport" content="width=device-width">
 </head>
 <body>
 <nav>
     <div class="nav-bar">
-        <a href="index.html"><img class="logo" src="images/draftuj_logo_full.png"></a>
-        <a action="newsletter.html" method="get">
-          <form action="https://tinyletter.com/Draftuj" method="get" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Draftuj', 'popupwindow', 'width=850,height=700,titlebar=no,top=100,left=200,menubar=no,toolbar=no');return true">
-              <button class="btn btn--big btn--blue btn--padding" >Stwórz darmowe konto</button>
-          </form>
-        </a>
+        <a href="index.html"><img class="logo" src="./images/draftuj-logo-full@3x.png"></a>
+        <form class="float-right" action="https://tinyletter.com/Draftuj" method="get" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Draftuj', 'popupwindow', 'width=850,height=700,titlebar=no,top=100,left=200,menubar=no,toolbar=no');return true">
+            <button class="btn btn--big btn--blue btn--navbar float-right">
+                Stwórz darmowe konto
+            </button>
+        </form>
+        <a href="index.html#pricing" class="link float-right">Cennik</a>
     </div>
 </nav>
-
 
 <header class="header">
     <div class="cnt-main">
@@ -128,14 +129,16 @@
     </div>
 </div>
 
-<div class="section__wrapper section__wrapper--blue">
+<div class="section__wrapper section__wrapper--blue" id="pricing">
     <div class="section">
         <section class="center section__content section__content--white">
             <h2><strong>Cennik</strong></h2>
             <p>Bez ukrytych kosztów, bez kontraktu. W Draftuj.pl płacisz tylko za te umowy, których potrzebujesz.</p>
             <div class="cnt-button margin__top--medium">
               <form action="https://tinyletter.com/Draftuj" method="get" target="popupwindow" onsubmit="window.open('https://tinyletter.com/Draftuj', 'popupwindow', 'width=850,height=700,titlebar=no,top=100,left=200,menubar=no,toolbar=no');return true">
-                  <button class="btn btn--big btn--blue btn--padding" >Stwórz darmowe konto</button>
+                  <button class="btn btn--big btn--white btn--padding">
+                      Stwórz darmowe konto
+                  </button>
               </form>
             </div>
         </section>

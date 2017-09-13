@@ -1,0 +1,8 @@
+{
+  "name": "Draftuj.pl",
+  "short_name": "draftuj",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "draftuj.pl page"
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="30" viewBox="0 0 119 30">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <path fill="#44A4FF" d="M7.5 0h15L15 15H0z"/>
+            <path fill="#44A4FF" d="M22.5 22.5v-15H15V15a7.5 7.5 0 0 1 7.5 7.5z"/>
+            <path fill="#44A4FF" d="M21.767 25.738l7.227-14.489-5.854-7.26-2.583 6.93.584 7.275A7.466 7.466 0 0 1 22.5 22.5a7.47 7.47 0 0 1-.733 3.238z"/>
+            <circle cx="22.5" cy="7.5" r="7.5" fill="#44A4FF"/>
+            <path fill="#2F6EA9" d="M15 15H7.5L0 30h15a7.5 7.5 0 0 0 0-15z"/>
+            <path fill="#000" d="M22.5 22.5A7.5 7.5 0 0 0 15 15H7.5L6 18h11.25a5.251 5.251 0 0 1 5.197 4.5h.053z" opacity=".3"/>
+        </g>
+        <text fill="#495158" font-family="OpenSans-Bold, Open Sans" font-size="22" font-weight="bold">
+            <tspan x="41" y="27">Draftuj</tspan>
+        </text>
+    </g>
+</svg>
