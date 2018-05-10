@@ -1,0 +1,63 @@
+.modal {
+	display: none;
+	position: fixed;
+	z-index: 1;
+	right: 18px;
+	bottom: 75px;
+	width: 250px;
+	height: 300px;
+	overflow: auto;
+	background-color: #fff;
+	border: 2px solid #4aa6fc;
+	border-radius: 4px;
+}
+
+.modal-header {
+	padding: 1px 16px;
+	background-color: #4aa6fc;
+	color: white;
+}
+
+/* Modal Body */
+.modal-body {padding: 2px 16px;}
+
+/* Modal Content */
+.modal-content {
+	position: relative;
+	background-color: #fff;
+	margin: auto;
+	padding: 0;
+	border: 1px solid #888;
+	width: 80%;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+	-webkit-animation-name: animatetop;
+	-webkit-animation-duration: 0.4s;
+	animation-name: animatetop;
+	animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+	from {top: -300px; opacity: 0}
+	to {top: 0; opacity: 1}
+}
+
+@keyframes animatetop {
+	from {top: -300px; opacity: 0}
+	to {top: 0; opacity: 1}
+}
+
+/* The Close Button */
+.close {
+	color: #fff;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+}

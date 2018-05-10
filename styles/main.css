@@ -1,14 +1,17 @@
 ﻿html {
-    width: 100%;
-    height: 100%;
     font-size: 18px;
-    overflow-x: hidden;
     overflow-y: scroll;
 }
 
-body {
-    max-width: 100%;
+html,body {
+    width: 100%;
     height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+body {
     margin: 0px;
     padding: 0px;
     background-color: #fff;
@@ -16,7 +19,6 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: #181818; //#3b3b3b
-    overflow-x: hidden;
 }
 
 h1 {
@@ -61,9 +63,12 @@ nav {
 }
 
 .logo {
-    margin: 15px;
-    height: auto;
-    width: 10%;
+    background: url(../images/draftuj-logo-full@3x.png) 0 0 no-repeat;
+    background-size: contain;
+    display: inline-block;
+    margin: 10px;
+    height: 40px;
+    width: 160px;
 }
 
 .btn--navbar {
@@ -76,7 +81,7 @@ nav {
     height: 100%;
     padding: 0;
     margin: 0;
-    background: url(images/main.png) no-repeat center top;
+    background: url(../images/main.png) no-repeat center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -198,39 +203,6 @@ nav {
     margin: 0 20px;
 }
 
-@media all and (max-width: 800px) {
-    .section {
-        margin: 0;
-    }
-    .features {
-        justify-content: space-around;
-    }
-
-    .pricing {
-        justify-content: space-around;
-        margin: 0;
-    }
-}
-
-/* Small screens */
-@media all and (max-width: 500px) {
-    .section {
-        margin: 2% 2%;
-    }
-    .features {
-        flex-direction: column;
-    }
-    .features__item {
-        margin-bottom: 30px;
-    }
-    .pricing {
-        flex-direction: column;
-    }
-    .pricing__item {
-        margin: 20px 20px;
-    }
-}
-
 .pricing {
     display: flex;
     justify-content: center;
@@ -325,14 +297,56 @@ img.center {
     margin-top: 20px;
 }
 
-@media only screen and (max-width: 440px) {
-
-    #cnt-navigation > ul {
-        display: none;
+@media all and (max-width: 800px) {
+    .cnt-main {
+      width: 90%;
+    }
+    .section {
+        margin: 0;
+    }
+    .features {
+        justify-content: space-around;
     }
 
-    .cta:before {
-        content: 'Stwórz konto';
+    .pricing {
+        justify-content: space-around;
+        margin: 0;
     }
+}
 
+/* Small screens */
+@media all and (max-width: 500px) {
+    .link {
+      display: none;
+    }
+    .section {
+        margin: 2% 2%;
+    }
+    .features {
+        flex-direction: column;
+    }
+    .features__item {
+        margin-bottom: 30px;
+    }
+    .pricing {
+        flex-direction: column;
+    }
+    .pricing__item {
+        margin: 20px 20px;
+    }
+    .wordcloud__item {
+      margin: 2px 2px;
+      padding: 5px 10px;
+    }
+    .btn--big {
+      padding: 15px 20px;
+    }
+}
+
+@media all and (max-width: 450px) {
+    .logo {
+      background: url(../images/draftuj_logo@2x.png) 0 0 no-repeat;
+      background-size: contain;
+      width: 40px;
+    }
 }
